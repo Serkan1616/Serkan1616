@@ -4,8 +4,8 @@
 
 ## I'm studying computer engineering at Dokuz Eylul University.
 
-- 👨‍💻 I’m currently working on machine learning and data mining projects using python.
-- 📚 Learning about Frontend and Backend technologies 😅
+- 👨‍💻 I’m currently working on Learning about Frontend and Backend technologies. 
+- 📚 Learning about machine learning and data mining projects using python. 
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 
 ---
